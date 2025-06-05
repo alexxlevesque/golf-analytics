@@ -2,6 +2,8 @@
 
 This project analyzes curated professional golf performance data to identify key factors driving low scores. By leveraging regression techniques and machine learning models, it quantifies how environmental conditions, course characteristics, and player profiles influence outcomes. The goal is to develop a reliable end-to-end modeling pipeline—starting with Ordinary Least Squares (OLS) regression as a baseline—before exploring more advanced predictive techniques.
 
+I built this project when I started playing a lot more golf. My goal was to understand, through data, what factors drive low scores for professionals, and hopefully transfer those insights to my game to lower my handicap.
+
 ---
 
 ## 📁 Dataset Overview
@@ -62,13 +64,3 @@ The dataset is a structured CSV file containing:
 - Integrate real-time data sources (e.g., API-based weather updates)
 - Expand unsupervised learning to cluster course types and player styles
 - Build an interactive dashboard (e.g., with Plotly or Streamlit)
-
----
-
-## 📬 Contact
-
-**Author:** Alex Levesque  
-📧 alex12levesque@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/alexlevesque) | [GitHub](https://github.com/alexxlevesque)
-
----
